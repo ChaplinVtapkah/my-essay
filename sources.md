@@ -7,4 +7,5 @@
 
 ## Веб-сайты
 -[Википедия - История компьютеров](https://ru.wikipedia.org/wiki/Компьютер)
+
 -[Компьютерный музей](https://computer-museum.ru/)
